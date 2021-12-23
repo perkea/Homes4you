@@ -1,0 +1,13 @@
+Used this Flask Tutorial to setup the Flask server
+https://towardsdatascience.com/creating-restful-apis-using-flask-and-python-655bad51b24
+
+1. Install Flask "pip3 install Flask"
+2. Write app.py file
+3. Run server: "python3 app.py"
+4. Command to run: FLASK_APP=app.py FLASK_ENV=development flask run
+
+
+Additional libraries:
+1.  Install "pip3 pandas"
+2.  Install "pip3 requests"
+
