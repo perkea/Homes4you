@@ -10,4 +10,7 @@ https://towardsdatascience.com/creating-restful-apis-using-flask-and-python-655b
 Additional libraries:
 1.  Install "pip3 pandas"
 2.  Install "pip3 requests"
+3.  Install "pip3 install flask_wtf"
+4.  Install "pip3 install wtforms"
+5.  Install "pip3 install geopy"
 
