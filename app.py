@@ -5,14 +5,12 @@ from flask_cors import CORS, cross_origin
 import pandas as pd
 from urllib.request import urlopen
 import requests
-import sys, os
+# import sys, os
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired
-# from dotenv import load_dotenv
 from geopy.geocoders import Nominatim
 
-# load_dotenv()
 
 app = Flask(__name__)
 CORS(app, support_credentials=True)
